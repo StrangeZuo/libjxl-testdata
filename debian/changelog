@@ -1,3 +1,35 @@
+libjxl-testdata (0.0~git20240106.ff8d743-2) unstable; urgency=medium
+
+  * d/rules: Install palette files
+  * d/control: Bump Std-Vers to 4.7.0 no changes needed
+
+ -- Mathieu Malaterre <malat@debian.org>  Tue, 04 Jun 2024 12:10:10 +0200
+
+libjxl-testdata (0.0~git20240106.ff8d743-1) unstable; urgency=medium
+
+  * New upstream version 0.0~git20240106.ff8d743
+
+ -- Mathieu Malaterre <malat@debian.org>  Tue, 04 Jun 2024 08:19:54 +0200
+
+libjxl-testdata (0.0~git20231005.f7488f7-1) unstable; urgency=medium
+
+  * New upstream version 0.0~git20231005.f7488f7
+
+ -- Mathieu Malaterre <malat@debian.org>  Tue, 10 Oct 2023 09:15:33 +0200
+
+libjxl-testdata (0.0~git20230623.d0c6419-1) unstable; urgency=medium
+
+  * d/control: Bump Std-Vers to 4.6.2 no changes needed
+  * New upstream version 0.0~git20230623.d0c6419
+
+ -- Mathieu Malaterre <malat@debian.org>  Fri, 01 Sep 2023 08:51:45 +0200
+
+libjxl-testdata (0.0~git20230428.07d667a-1) experimental; urgency=medium
+
+  * New upstream version 0.0~git20230428.07d667a
+
+ -- Mathieu Malaterre <malat@debian.org>  Fri, 16 Jun 2023 08:51:39 +0200
+
 libjxl-testdata (0.0~git20230110.d6168ff-1) unstable; urgency=medium
 
   * New upstream version 0.0~git20230110.d6168ff

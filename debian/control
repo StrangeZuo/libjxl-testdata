@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>
 Uploaders: Mathieu Malaterre <malat@debian.org>
 Build-Depends: debhelper (>= 11)
-Standards-Version: 4.6.1
+Standards-Version: 4.7.0
 Homepage: https://github.com/libjxl/testdata
 Vcs-Git: https://salsa.debian.org/debian-phototools-team/libjxl-testdata.git
 Vcs-Browser: https://salsa.debian.org/debian-phototools-team/libjxl-testdata

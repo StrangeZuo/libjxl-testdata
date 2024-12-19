@@ -10,6 +10,7 @@ override_dh_install:
 	dh_install external $(pkg_data)
 	dh_install jxl $(pkg_data)
 	dh_install oss-fuzz $(pkg_data)
+	dh_install palette $(pkg_data)
 	dh_install position_encoding $(pkg_data)
 
 get-orig-source:
